@@ -10,7 +10,7 @@ The goal is to demonstrate how large-scale fraud-risk teams identify suspicious 
 ## ⚙️ Tools & Libraries
 **Python Stack:** pandas, numpy, matplotlib, seaborn, scipy, statsmodels  
 **Statistical Tests:** Chi-Square, ANOVA/Welch’s, Correlation, Cramér’s V, Cohen’s d  
-**Dataset:** Synthetic case-level data (~200 K rows) simulating return & reimbursement workflows  
+**Dataset:** Synthetic case-level data (~200 K rows) modeling e-commerce refund and reimbursement scenarios  
 **Environment:** Jupyter Notebook (Python ≥ 3.9)
 
 ---
